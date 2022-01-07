@@ -24,10 +24,10 @@ define( 'WP_CACHE', true );
 define( 'DB_NAME', 'pasal_wp2' );
 
 /** MySQL database username */
-define( 'DB_USER', 'pasal_wp2' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'V.8zLMPQOHdy3R0VcSp73' );
+define( 'DB_PASSWORD', 'P@sal100' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
